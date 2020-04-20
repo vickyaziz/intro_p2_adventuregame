@@ -1,6 +1,3 @@
-# intro_p2_adventuregame
-P2 - Adventure Game Result, part of the Udacity Intro to Programming Nanodegree
-
 # **P2 - Intro to Programming - Adventure Game** 
 [![Udacity - Intro to Programming NanoDegree](https://github.com/vickyaziz/sdc_p1_lanelines/blob/master/test_images/shield-udacity.png)](https://www.udacity.com/school-of-programming)
 
